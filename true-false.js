@@ -3,10 +3,13 @@
 //undefined F
 //null F
 //NaN F
+//flase F
+
 // '0' T
 //[] T
 //{} T
-
+//truthy
+//' '   
 
 // const age =0;
 let name = false ;
